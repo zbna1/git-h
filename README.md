@@ -1,1 +1,4 @@
-To jets moj pierwszy projekt
+
+# git-h
+to jest moj pierwszy projekt 
+
