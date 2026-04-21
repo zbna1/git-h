@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.menu-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgb(0, 0, 0, 0.2);
+}
+
+.footer-link {
+    color: yellow;
+    text-decoration: none;
+}
+
+.footer-link:hover{ 
+    text-decoration: underline;
+}
